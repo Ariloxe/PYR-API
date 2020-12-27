@@ -1,0 +1,5 @@
+name: PYR-API
+author: Ariloxe
+version: 1.0
+main: eu.pyralia.pyrapi.BungeeCordAPI
+commands:

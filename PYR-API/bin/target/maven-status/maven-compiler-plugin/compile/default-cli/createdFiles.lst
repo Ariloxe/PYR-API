@@ -1,0 +1,15 @@
+eu/pyralia/pyrapi/bungeecord/commands/players/HubCommand.class
+eu/pyralia/pyrapi/BungeeCordAPI.class
+eu/pyralia/pyrapi/bungeecord/commands/CommandManager.class
+eu/pyralia/pyrapi/bungeecord/commands/admin/MaintenanceCommand$1.class
+eu/pyralia/pyrapi/bungeecord/event/PingEvent.class
+eu/pyralia/pyrapi/bungeecord/maintenance/MaintenanceSetter.class
+eu/pyralia/pyrapi/PyraliaAPI.class
+eu/pyralia/pyrapi/bungeecord/commands/admin/RebootCommand.class
+eu/pyralia/pyrapi/bungeecord/commands/admin/AdmCommand.class
+eu/pyralia/pyrapi/bungeecord/maintenance/MaintenanceState.class
+eu/pyralia/pyrapi/bungeecord/event/EventManager.class
+eu/pyralia/pyrapi/bungeecord/event/JoinEvent.class
+eu/pyralia/pyrapi/bungeecord/maintenance/ListServices.class
+eu/pyralia/pyrapi/bungeecord/commands/admin/MaintenanceCommand.class
+eu/pyralia/pyrapi/bungeecord/commands/mod/ModCommand.class

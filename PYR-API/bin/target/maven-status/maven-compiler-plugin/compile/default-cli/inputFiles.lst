@@ -1,0 +1,14 @@
+/Users/erwan/Desktop/IdeaProjects/PYRALIA/src/main/java/eu/pyralia/pyrapi/bungeecord/event/JoinEvent.java
+/Users/erwan/Desktop/IdeaProjects/PYRALIA/src/main/java/eu/pyralia/pyrapi/bungeecord/commands/players/HubCommand.java
+/Users/erwan/Desktop/IdeaProjects/PYRALIA/src/main/java/eu/pyralia/pyrapi/bungeecord/commands/admin/MaintenanceCommand.java
+/Users/erwan/Desktop/IdeaProjects/PYRALIA/src/main/java/eu/pyralia/pyrapi/bungeecord/commands/mod/ModCommand.java
+/Users/erwan/Desktop/IdeaProjects/PYRALIA/src/main/java/eu/pyralia/pyrapi/bungeecord/maintenance/ListServices.java
+/Users/erwan/Desktop/IdeaProjects/PYRALIA/src/main/java/eu/pyralia/pyrapi/BungeeCordAPI.java
+/Users/erwan/Desktop/IdeaProjects/PYRALIA/src/main/java/eu/pyralia/pyrapi/PyraliaAPI.java
+/Users/erwan/Desktop/IdeaProjects/PYRALIA/src/main/java/eu/pyralia/pyrapi/bungeecord/commands/admin/RebootCommand.java
+/Users/erwan/Desktop/IdeaProjects/PYRALIA/src/main/java/eu/pyralia/pyrapi/bungeecord/event/PingEvent.java
+/Users/erwan/Desktop/IdeaProjects/PYRALIA/src/main/java/eu/pyralia/pyrapi/bungeecord/maintenance/MaintenanceState.java
+/Users/erwan/Desktop/IdeaProjects/PYRALIA/src/main/java/eu/pyralia/pyrapi/bungeecord/maintenance/MaintenanceSetter.java
+/Users/erwan/Desktop/IdeaProjects/PYRALIA/src/main/java/eu/pyralia/pyrapi/bungeecord/commands/CommandManager.java
+/Users/erwan/Desktop/IdeaProjects/PYRALIA/src/main/java/eu/pyralia/pyrapi/bungeecord/commands/admin/AdmCommand.java
+/Users/erwan/Desktop/IdeaProjects/PYRALIA/src/main/java/eu/pyralia/pyrapi/bungeecord/event/EventManager.java
